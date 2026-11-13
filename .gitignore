@@ -1,0 +1,5 @@
+fipi_out/
+/parser-fipi
+/fipi-parser
+*.part
+.DS_Store
